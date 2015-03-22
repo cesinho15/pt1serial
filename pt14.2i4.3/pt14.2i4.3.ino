@@ -12,11 +12,9 @@ void setup()              // run once, when the sketch starts
   {
   Serial.print ("Aigua encara no bull");
 }
- else ( tempAigua < 100)
-  {
-  Serial.print ("Aigua apunt de bullir");
 }
 void loop()   // we need this to be here even though its empty
 {
 }
+
 
